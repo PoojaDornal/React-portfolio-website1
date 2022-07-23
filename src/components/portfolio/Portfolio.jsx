@@ -18,8 +18,8 @@ const Portfolio = () => {
             </div>
             <h3>React Portfoli Website</h3>
             <div className='portfolio__item-cta'>
-            <a href='https://github.com' className='btn'>Github</a>
-            <a href='https://github.com' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='https://github.com/PoojaDornal/React-portfolio-website1' className='btn'>Github</a>
+            <a href='https://poojadornal.github.io/React-portfolio-website1/' className='btn btn-primary' target='_blank'>Live Demo</a>
             </div>
          </article>
          {/* 2 */}
